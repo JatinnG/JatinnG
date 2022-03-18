@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jatin!
-  I love to learn new things, explore new horizons, collaborate and exchange innovative ideas with interesting people
+  I love to learn new things, explore new horizons, collaborate and exchange ideas with interesting people
   
     
   
