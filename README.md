@@ -1,10 +1,15 @@
 # 👋 Hi, I’m Jatin!
   I love to learn new things, explore new horizons, collaborate and exchange innovative ideas with interesting people
   
+    
+  
 - 👀 Interests : Deep Learning, Machine Learning, Artificial Intelligence, Automation and Robotics, Psychology, Spirituality
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- :computer:  Currently pursuing M.Sc. Data Analytics from Stiftung Universität Hildesheim, Germany after ~2 year experience in customer analytics
+
+- :pencil: I’m looking to collaborate on Data Science Projects and Algorithm discussions / implementations
+
+- :rainbow: Exposure Areas : Combinatorial Optimization for Vehicle Routing, Text Processing, Recommender Systems, Classification and Regression
 
 <!---
 JatinnG/JatinnG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
