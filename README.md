@@ -5,7 +5,7 @@
   
 - 👀 Interests : Deep Learning, Machine Learning, Artificial Intelligence, Automation and Robotics, Psychology, Spirituality
 
-- :computer:  Currently pursuing M.Sc. Data Analytics from Stiftung Universität Hildesheim, Germany after ~2 year experience in customer analytics
+- :computer:  Currently pursuing M.Sc. Data Analytics from Universität Hildesheim, Germany after ~2 year experience in customer analytics
 
 - :pencil: I’m looking to collaborate on Data Science Projects and Algorithm discussions / implementations
 
