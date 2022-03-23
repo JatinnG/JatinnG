@@ -3,7 +3,7 @@
   
     
   
-- 👀 Interests : Deep Learning, Advanced Machine Learning, Artificial Intelligence, Automation and Robotics, Psychology, Spirituality
+- 👀 Interests : Computer Vision, Deep Learning, Machine Learning, Artificial Intelligence, Industrial Automation, Psychology, Spirituality
 
 - :computer:  Currently pursuing M.Sc. Data Analytics from Universität Hildesheim, Germany after ~2 year experience in customer analytics
 
