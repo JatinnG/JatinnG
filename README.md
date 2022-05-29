@@ -9,7 +9,7 @@
 
 - :pencil: I’m looking to collaborate on Data Science Projects and Algorithm discussions / implementations
 
-- :rainbow: Exposure Areas : Combinatorial Optimization for Vehicle Routing, Text Processing, Recommender Systems, Classification and Regression
+- :rainbow: Exposure Areas : Combinatorial Optimization for Vehicle Routing, Text Processing and Semantic Analysis, Recommender Systems, Supervised and Unsupervised Learning (Classification, Regression)
 
 <!---
 JatinnG/JatinnG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
